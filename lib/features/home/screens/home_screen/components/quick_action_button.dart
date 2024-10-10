@@ -14,7 +14,7 @@ class QuickActionButton extends StatelessWidget {
         const SizedBox(height: 10,),
         Text(
           title,
-          style: TextStyle(
+          style: const TextStyle(
             fontWeight: FontWeight.w500
           ),
         )

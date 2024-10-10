@@ -4,8 +4,6 @@ import 'package:swd/features/home/screens/home_screen/components/news_and_update
 import 'package:swd/features/home/screens/home_screen/components/quick_action_button.dart';
 import 'package:swd/features/home/screens/home_screen/components/quick_actions_card.dart';
 import 'package:swd/utilities/constants/app_icons.dart';
-import 'package:swd/utilities/constants/app_string.dart';
-
 import '../../../../../utilities/constants/app_colors.dart';
 
 class HomeScreen extends StatefulWidget {
